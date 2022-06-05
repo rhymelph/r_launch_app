@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/r_launch_appstore/r_launch_appstore.iml" filepath="$PROJECT_DIR$/r_launch_appstore/r_launch_appstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/r_launch_appstore/android/r_launch_appstore_android.iml" filepath="$PROJECT_DIR$/r_launch_appstore/android/r_launch_appstore_android.iml" />
     </modules>
   </component>
 </project>
